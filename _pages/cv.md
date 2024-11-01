@@ -36,6 +36,8 @@ Education
 
   - Faculty of Biology, University of Belgrade, Serbia
 
+<img align="right" src="../images/belgrade_uni.png" width="100px" style="padding-right: 15px">
+
  <hr>
 
 <p>
