@@ -43,7 +43,7 @@ Education
  <hr>
 
 <p>
-    <span> <b>BA in Molecular Biology and Physiology</b> </span>
+    <span> <b>BSc in Molecular Biology and Physiology</b> </span>
     <span style="float:right;">2011-2016</span>
     <div class="clearix"></div>
 </p>
