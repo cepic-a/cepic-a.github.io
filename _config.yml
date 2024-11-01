@@ -22,11 +22,11 @@ repository               : "cepic-a/cepic-a.github.io"
 author:
   # Biographic information
   avatar           : "cepic.png"
-  name             : "Aleksa Čepić"
+  name             : "Aleksa Čepić, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher @ Max Planck Institute for Evolutionary Biology"
+  bio              : "Postdoctoral Researcher"
   location         : "Plön, Germany"
-  employer         : # "Max Planck Institute"
+  employer         : "Max Planck Institute"
   uri              : # URL
   email            : "cepic@evolbio.mpg.de" 
 
