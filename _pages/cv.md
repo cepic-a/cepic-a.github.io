@@ -19,7 +19,7 @@ Education
     <div class="clearix"></div>
 </p>
 
-<img align="right" src="../images/logo-maxplanck-cau.png" width="135px" style="padding-right: 1px">
+<img align="right" src="../images/maxplanck-cau.png" width="125px" style="padding-right: 1px">
 
   - Max Planck Institute for Evolutionary Biology, Germany
 
