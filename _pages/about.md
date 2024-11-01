@@ -23,3 +23,10 @@ Through metagenomic sequencing and bioinformatics, I aim to understand how gut a
 - Inflammation
 
 <hr>
+
+## The Research:
+
+### • Influence of the Host Genetics on Gut Microbiota Dynamics, Antibiotic Response, and Colonization Resistance
+
+
+### • Microbiota-specific T cell responses in pemphigoid diseases [CRC 1526: B08](https://www.sfb1526.uni-luebeck.de/research/research-area-b/project-b08.html)
