@@ -23,6 +23,8 @@ Education
 
   - Max Planck Institute for Evolutionary Biology, Germany
 
+<img align="right" src="../images/logo-cau.png" width="135px" style="padding-right: 1px">
+
   - Faculty of Mathematics and Natural Sciences, Kiel University, Germany
 
     - Thesis: [The role of _B4galnt2_ in shaping the outcome of antibiotic treatment and susceptibility to enteric pathogens](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3616380)
