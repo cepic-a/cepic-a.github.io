@@ -64,6 +64,8 @@ Work experience
     <div class="clearix"></div>
 </p>
 
+<img align="right" src="../images/mpi-logo_2.png" width="100px" style="padding-right: 1px">
+
   - Max Planck Institute for Evolutionary Biology, Germany
 
 <hr>
@@ -73,5 +75,7 @@ Work experience
     <span style="float:right;">2019-2024</span>
     <div class="clearix"></div>
 </p>
+
+<img align="right" src="../images/mpi-logo_2.png" width="100px" style="padding-right: 1px">
 
   - Max Planck Institute for Evolutionary Biology, Germany
