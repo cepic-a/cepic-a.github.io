@@ -64,9 +64,11 @@ Work experience
     <div class="clearix"></div>
 </p>
 
-<img align="right" src="../images/mpi-logo_2.png" width="100px" style="padding-right: 1px">
+<img align="right" src="../images/mpi-logo_2.png" width="75px" style="padding-right: 1px">
 
   - Max Planck Institute for Evolutionary Biology, Germany
+
+<br/>
 
 <hr>
 
@@ -76,6 +78,8 @@ Work experience
     <div class="clearix"></div>
 </p>
 
-<img align="right" src="../images/mpi-logo_2.png" width="100px" style="padding-right: 1px">
+<img align="right" src="../images/mpi-logo_2.png" width="75px" style="padding-right: 1px">
 
   - Max Planck Institute for Evolutionary Biology, Germany
+
+<br/>
