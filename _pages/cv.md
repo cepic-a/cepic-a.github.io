@@ -19,7 +19,7 @@ Education
     <div class="clearix"></div>
 </p>
 
-<img align="right" src="../images/logo-maxplanck.png" width="120px" style="padding-right: 1px">
+<img align="right" src="../images/logo-maxplanck.png" width="135px" style="padding-right: 1px">
 
   - Max Planck Institute for Evolutionary Biology, Germany
 
@@ -35,7 +35,7 @@ Education
     <div class="clearix"></div>
 </p>
 
-<img align="right" src="../images/belgrade_uni.png" width="120px" style="padding-right: 1px">
+<img align="right" src="../images/belgrade_uni.png" width="125px" style="padding-right: 1px">
 
   - Faculty of Biology, University of Belgrade, Serbia
 
@@ -48,7 +48,7 @@ Education
     <div class="clearix"></div>
 </p>
 
-<img align="right" src="../images/belgrade_uni.png" width="120px" style="padding-right: 1px">
+<img align="right" src="../images/belgrade_uni.png" width="125px" style="padding-right: 1px">
 
   - Faculty of Biology, University of Belgrade, Serbia
 
