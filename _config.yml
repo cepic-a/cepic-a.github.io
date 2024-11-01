@@ -24,9 +24,9 @@ author:
   avatar           : "cepic.png"
   name             : "Aleksa Čepić"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
+  bio              : "Postdoctoral Researcher @ Max Planck Institute for Evolutionary Biology"
   location         : "Plön, Germany"
-  employer         : "Max Planck Institute"
+  employer         : # "Max Planck Institute"
   uri              : # URL
   email            : "cepic@evolbio.mpg.de" 
 
